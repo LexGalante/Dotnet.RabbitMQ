@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/Dotnet.RabbitMQ
+/src/Dotnet.RabbitMQ.Api/obj
+/src/Dotnet.RabbitMQ.Api/bin/Debug/netcoreapp3.0
+/src/Dotnet.RabbitMQ.Infra/obj
+/src/Dotnet.RabbitMQ.Infra/bin/Debug/netcoreapp3.0
+/src/Dotnet.RabbitMQ.Worker/bin/Debug/netcoreapp3.0
+/src/Dotnet.RabbitMQ.Worker/obj
